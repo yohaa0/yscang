@@ -1,4 +1,5 @@
 #yscang
+
 http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
 
 https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json
